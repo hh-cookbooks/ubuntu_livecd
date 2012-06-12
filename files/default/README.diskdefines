@@ -1,0 +1,10 @@
+#define DISKNAME  Ubuntu 12.04 "Karmic Koala" - Release amd64 **hh-Remix**
+#define TYPE  binary
+#define TYPEbinary  1
+#define ARCH  amd64
+#define ARCHamd64  1
+#define ARCHi386  0
+#define DISKNUM  1
+#define DISKNUM1  1
+#define TOTALNUM  0
+#define TOTALNUM0  1
